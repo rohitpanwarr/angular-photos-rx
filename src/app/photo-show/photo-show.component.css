@@ -1,0 +1,7 @@
+.photo-container {
+    display: inline-flex;
+    flex-direction: column;
+}
+img {
+    width: 300px;
+}
